@@ -42,7 +42,7 @@ A real-time attendance system using facial recognition. Automatically logs atten
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/GarvitaKochar06/face-attendance.git
+git clone https://github.com/ShaliniAgrawal12/face-attendance.git
 cd face-attendance
 
 # Install dependencies
